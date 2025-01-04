@@ -1,3 +1,0 @@
-# keeper-configuration
-
-TBD
